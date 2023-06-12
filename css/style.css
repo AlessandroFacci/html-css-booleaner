@@ -12,6 +12,11 @@ body{
     width: 250px;
 }
 
+.svg{
+    margin-top: 100px;
+    margin-left: 10px;
+}
+
 .title{
     margin-left: 10px;
     margin-right: 10px;
@@ -47,4 +52,16 @@ body{
 
 .list{
     margin-left: -15px;
+}
+
+.color-lightblue{
+    background-color: lightblue
+}
+
+.color-blue{
+    background-color: blue;
+}
+
+.col{
+    width: 400px;
 }
