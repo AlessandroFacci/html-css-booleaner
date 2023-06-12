@@ -1,24 +1,26 @@
-header{
-    background-image: url("../img/pattern.png");
-    background-color: #00bbf0;
-    height: 175px;
-}
-
 body{
     margin: 0;
 }
 
-.container{
-    width: 250px;
+header{
+    background-color: rgb(0, 168, 252);
+    background-image: url("../img/pattern.png");
+    height: 175px;
 }
 
 .svg{
+    width: 250px;
     margin-top: 100px;
     margin-left: 10px;
 }
 
-.h1{
+.title{
     margin-bottom: 0;
+}
+
+.conteiner{
+    max-width: 800px;
+    margin: auto;
 }
 
 .address{
@@ -27,45 +29,51 @@ body{
 }
 
 .booleaner{
-    color: #00bbf0;
+    color: rgb(0, 168, 252);
 }
 
 .small-text{
-    font-size: small;
+    font-size:small;
 }
 
-.top-img{
-    margin-left: 10px;
-    margin-right: 10px;
+.tim1{
+    width: 52%;
+    height: 305px
+}
+
+.tim2{
+    width: 47%;
+    height: 305px;
+}
+
+.imgtop{
     margin-top: 20px;
-    width: 1020px;
 }
 
-.text{
-    margin-left: 10px;
-    margin-right: 10px;
-}
-
-.highlighter{
+.yellow{
     background-color: yellow;
 }
 
 .list{
-    margin-left: -15px;
+    margin-left: -25px;
 }
 
-.color-lightblue{
-    background-color: lightblue
-}
-
-.color-blue{
-    background-color: #00bbf0;
-    color: white;
+.tab{
+    width: 200px;
     text-align: left;
 }
 
-.col{
-    width: 400px;
+.tab2{
+    width: 500px;
+    text-align: left;
+}
+
+.colortab1{
+    background-color: rgb(0, 168, 252);
+}
+
+.colortab2{
+    background-color: lightblue;
 }
 
 h4{
