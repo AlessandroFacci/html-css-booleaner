@@ -28,3 +28,10 @@ body{
 .small-text{
     font-size: small;
 }
+
+.top-img{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    width: 1020px;
+}
