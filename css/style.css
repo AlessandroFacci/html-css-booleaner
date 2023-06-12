@@ -35,3 +35,12 @@ body{
     margin-top: 20px;
     width: 1020px;
 }
+
+.text{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.highlighter{
+    background-color: yellow;
+}
