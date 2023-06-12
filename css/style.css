@@ -44,3 +44,7 @@ body{
 .highlighter{
     background-color: yellow;
 }
+
+.list{
+    margin-left: -15px;
+}
